@@ -5,8 +5,6 @@
 I am a detail-oriented Backend Developer with a strong focus on building scalable RESTful APIs, clean architecture, and containerized deployments. I'm passionate about backend infrastructure, cloud technologies, and exploring modern full-stack development.
 
 ## 🚀 About Me
-
-- 🎓 Currently pursuing a Bachelor's Degree in Computer Science at Universitas Siber Muhammadiyah.
 - 💻 Specialized in building robust backend systems using **Go (Golang)** and **PostgreSQL**.
 - 🛠️ Actively exploring cloud infrastructure (Google Cloud Platform), DevOps practices (Docker, Kubernetes, CI/CD), and distributed systems.
 - 🌱 Continuously learning and aiming to deliver high-quality, secure software solutions.
