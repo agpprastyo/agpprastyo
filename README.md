@@ -33,8 +33,6 @@ I am a detail-oriented Backend Developer with a strong focus on building scalabl
   <img src="https://github-readme-stats.vercel.app/api?username=agpprastyo&theme=transparent&hide_border=true&show_icons=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=agpprastyo&theme=transparent&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agpprastyo&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
