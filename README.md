@@ -9,7 +9,6 @@ I am a detail-oriented Backend Developer with a strong focus on building scalabl
 - 🎓 Currently pursuing a Bachelor's Degree in Computer Science at Universitas Siber Muhammadiyah.
 - 💻 Specialized in building robust backend systems using **Go (Golang)** and **PostgreSQL**.
 - 🛠️ Actively exploring cloud infrastructure (Google Cloud Platform), DevOps practices (Docker, Kubernetes, CI/CD), and distributed systems.
-- 🔭 Currently building **Operin**, a full-stack file-sharing application utilizing Svelte, Tailwind CSS, Cloudflare D1, and R2.
 - 🌱 Continuously learning and aiming to deliver high-quality, secure software solutions.
 
 ## 💻 Tech Stack & Tools
@@ -27,16 +26,15 @@ I am a detail-oriented Backend Developer with a strong focus on building scalabl
 
 * **[POS Kasir](https://github.com/agpprastyo)**: A Full Stack Point of Sales application. Built with Golang (Fiber), React, PostgreSQL, and Docker. Features 50+ RESTful APIs, RBAC, JWT authentication, and automated cashless transactions via Midtrans API integration.
 * **[GoShort](https://github.com/agpprastyo)**: A reliable URL shortener service built with Go and PostgreSQL, featuring secure user-specific data via JWT and containerized deployment with Docker.
-* **Operin**: A fast, modern file-sharing web application built with SvelteKit, powered by Cloudflare D1 (database) and R2 (object storage).
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agpprastyo&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agpprastyo&theme=transparent&hide_border=true&show_icons=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agpprastyo&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agpprastyo&theme=transparent&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agpprastyo&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agpprastyo&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -48,8 +46,8 @@ I am a detail-oriented Backend Developer with a strong focus on building scalabl
   <a href="mailto:prasetyo.agpr@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <br/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=agpprastyo&icon=0&color=0" alt="Profile Views" />
+  <br/><br/>
+  <a href="https://github.com/agpprastyo">
+    <img src="https://komarev.com/ghpvc/?username=agpprastyo&color=0077B5&style=flat" alt="Profile Views" />
   </a>
 </div>
